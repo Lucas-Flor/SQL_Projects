@@ -5,7 +5,7 @@ O  projeto é uma iniciativa da DIO para o treino na criação e modelagem de es
 Vale lembrar que  podem haver erros na construção do modelo e que serão corrigidos, porém o propósito principal é o treino e a criação simulda de um banco de dados real.
 
 ## 🎯 Especificação Inicial da Entrega a ser realizada:
-
+Será criado uma automação de acessos e gatilhos dentro de um cenáario de e-commerce. Maiores detalhes poderão ser visualizados nas partes 1 e 2.
 
 ### 🛠️ Parte 1 – Personalizando acessos com views 
 
